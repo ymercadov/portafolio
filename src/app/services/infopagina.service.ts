@@ -58,7 +58,7 @@ export class InfopaginaService {
      
       this.cargada = true;
       this.equipo = resp;
-      console.log(this.equipo);
+      //console.log(this.equipo);
       //console.log(resp['nombre_corto'])
    });
   }
